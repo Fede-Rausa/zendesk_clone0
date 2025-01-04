@@ -1,6 +1,8 @@
 title: Zendesk Garden Jekyll Theme
-remote_theme: Fede-Rausa/zendesk_clone0@main
 
+#I have replaced zendesk with Fede-Rausa (username)
+#and jekyll-theme-zendesk-garden with zendesk_clone0 (repository name)
+remote_theme: Fede-Rausa/zendesk_clone0@main
 baseurl: /zendesk_clone0
 
 search_enabled: true
